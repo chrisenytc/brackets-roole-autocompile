@@ -1,0 +1,12 @@
+{
+    "name": "chrisenytc.roole-autocompile",
+    "title": "Roole AutoCompile",
+    "description": "Automatically compiles roole files upon saving.",
+    "homepage": "https://github.com/chrisenytc/brackets-roole-autocompile",
+    "version": "1.0.0",
+    "author": "Christopher EnyTC <chrisenytc@gmail.com> (https://github.com/chrisenytc)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}

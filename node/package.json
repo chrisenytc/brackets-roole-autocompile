@@ -1,0 +1,8 @@
+{
+	"name": "chrisenytc.roole-autocompile",
+	"version": "1.0.0",
+	"description": "Node script for chrisenytc.roole-autocompile",
+	"dependencies": {
+		"roole": "*"
+	}
+}
