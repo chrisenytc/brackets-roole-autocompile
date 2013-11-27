@@ -1,4 +1,4 @@
-# Roole AutoCompile [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/brackets-roole-autocompile/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# Roole AutoCompile [![GH version](https://badge-me.herokuapp.com/api/gh/chrisenytc/brackets-roole-autocompile.png)](http://badges.enytc.com/for/gh/chrisenytc/brackets-roole-autocompile) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/brackets-roole-autocompile/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 Roole AutoCompile is an extension for the code editor Brackets that adds automatic compilation of Roole files upon saving. Roole AutoCompile is installed from the Package Manager that is included in Brackets.
 
